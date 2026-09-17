@@ -35,7 +35,7 @@ Y el código ejecutable es el programa final listo para ejecutarse.
 
 
 
-[Imagen relacionada con la actividad](imágenes/desarrollo.jpg)
+[Imagen relacionada con la actividad](imagenes/desarrollo.jpg)
 
 
 
