@@ -1,8 +1,8 @@
-\# \*\*Introducción al Software\*\*
+# **Introducción al Software**
 
 
 
-\## \*\*¿Qué es un programa informático?\*\*
+## **¿Qué es un programa informático?**
 
 
 
@@ -10,7 +10,7 @@ Es el conjunto de instrucciones que se le da a cualquier dispositivo electrónic
 
 
 
-\## Diferencia entre código fuente, código objeto y código ejecutable:
+## Diferencia entre código fuente, código objeto y código ejecutable:
 
 
 
@@ -20,7 +20,7 @@ Y el código ejecutable es el programa final listo para ejecutarse.
 
 
 
-\## Etapas del desarrollo del software:
+## Etapas del desarrollo del software:
 
 
 
@@ -35,11 +35,11 @@ Y el código ejecutable es el programa final listo para ejecutarse.
 
 
 
-\[Imagen relacionada con la actividad](imágenes/desarrollo.jpg)
+[Imagen relacionada con la actividad](imágenes/desarrollo.jpg)
 
 
 
-\## Enlace al repositorio
+## Enlace al repositorio
 
 
 
