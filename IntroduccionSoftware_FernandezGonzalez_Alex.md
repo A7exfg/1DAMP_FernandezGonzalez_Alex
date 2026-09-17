@@ -39,9 +39,9 @@ Y el código ejecutable es el programa final listo para ejecutarse.
 
 
 
-## Enlace al repositorio
+Enlace al repositorio --> https://github.com/A7exfg/1DAMP\_FernandezGonzalez\_Alex.git
 
 
 
-https://github.com/A7exfg/1DAMP\_FernandezGonzalez\_Alex.git
+
 
