@@ -39,8 +39,8 @@ Añadido para la explicación de clase del día 23/09/2026
 
 
 
-Enlace al repositorio --> https://github.com/A7exfg/1DAMP_FernandezGonzalez_Alex.git
-
+## Enlace al repositorio:
+[Enlace al repositorio] (https://github.com/A7exfg/1DAMP_FernandezGonzalez_Alex.git)
 
 
 
