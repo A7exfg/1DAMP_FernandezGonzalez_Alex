@@ -32,7 +32,7 @@ Y el código ejecutable es el programa final listo para ejecutarse.
 6. Mantenimiento: Se realizan mejoras y solucionan problemas.
 
 
-
+Añadido para la explicación de clase del día 23/09/2026
 
 
 [Imagen relacionada con la actividad](imagenes/desarrollo.jpg)
